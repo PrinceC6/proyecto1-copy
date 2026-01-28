@@ -1,0 +1,15 @@
+h1{
+    color: purple;
+    margin: 0;
+}
+
+h2{
+    color: blue;
+    margin: 0;
+}
+
+header{
+    background-color: lightgrey;
+    padding: 10px;
+    text-align: center;
+}
